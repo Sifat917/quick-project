@@ -1,0 +1,188 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+header{
+overflow: hidden;
+border: 2px dashed black;
+}
+.header-content{
+
+width: 90%;
+
+/* background: aliceblue; */
+
+margin-left: 5%;
+
+padding-top: 10px;
+
+padding-bottom: 10px;
+}
+.logo{
+float: left;
+width: 20%;
+}
+.logo img{
+    
+}
+nav{
+    float: right;
+    padding-top: 10px;
+}
+nav ul{
+
+}
+nav ul li{
+
+font-size: 20px;
+
+float: left;
+
+margin-right: 20px;
+
+/* padding-top: 10px; */
+
+text-transform: capitalize;
+}
+.content{
+
+width: 50%;
+
+margin-left: 25%;
+}
+.content h1:first-child{
+    color: #0F2656;
+
+text-align: center;
+
+font-size: 45px;
+
+margin-top: 10px;
+}
+.content p{
+
+text-align: center;
+
+font-size: 30;
+
+margin-top: 30px;
+}
+.content img{
+    margin-left: 10px;
+    width: 100%;
+    margin-top: 30px;
+}
+.content h1{
+    color: #008AFF;
+
+text-align: center;
+
+font-size: 45px;
+
+margin-top: 10px;
+}
+.main-content{
+   overflow: hidden;
+   font-size: 25px;
+   margin-bottom: 40px;
+}
+.left-content{
+    color: #0F2656;;
+  float: left;
+  text-align: right;
+  width: 48%;
+}
+.left-content h1{
+   color: red;
+   margin-bottom: 10px;
+}
+.left-content p{
+    
+}
+.right-content{
+    float: right;
+    color: #0F2656;
+width: 49%;
+}
+.feature{
+ overflow: hidden;   
+ width: 90%;
+ margin: auto;
+ margin-top: 30;
+ margin-bottom: 50px;
+}
+.feature-one{
+    float: left;
+    width: 25%;
+    height: 350px;
+    text-align: center;
+    background-color: #FDEBED;
+    padding: 10px 25px;
+}
+.feature-one img{
+
+}
+.feature-one h3{
+    color: #0F2656;
+    text-align: left;
+}
+.feature-one p{
+    color: #0F2656;
+    text-align: left;
+}
+.feature-two{
+    float: left;
+    width: 25%;
+    height: 350px;
+    text-align: center;
+    margin-left: 7%;
+    background-color: #EBF9F4;
+    padding: 10px 25px;
+}
+.feature-two img{
+
+}
+.feature-two h3{
+    color: #0F2656;
+   text-align: left;
+}
+.feature-two p{
+   color: #0F2656;
+   text-align: left;
+}
+.feature-three{
+    float: right;
+    width: 25%;
+    height: 350px;
+    text-align: center;
+    background-color: #FFF7E8;
+    padding: 10px 25px;
+}
+.feature-three img{
+
+}
+.feature-three h3{
+    color: #0F2656;
+    text-align: left;
+}
+.feature-three p{
+    color: #0F2656;
+    text-align: left;
+}
+footer{
+  background-color: #0064C5;
+  text-align: center;
+  
+  padding: 20px 0px;
+}
+footer p{
+  color: #d6e6e0;
+  display: inline;
+}
+footer h3{
+  color: white;
+  display: inline;
+  letter-spacing: 2px;
+  margin: 0px 7px;
+}
